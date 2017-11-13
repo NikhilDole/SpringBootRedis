@@ -1,0 +1,9 @@
+redispoc\springframework\services\InquiryReportServiceImpl.class
+redispoc\springframework\services\InquiryReportService.class
+redispoc\springframework\commands\InquiryReportForm.class
+redispoc\springframework\converters\InquiryReportToInquiryReportForm.class
+redispoc\springframework\SpringBootRedisApplication.class
+redispoc\springframework\repositories\InquiryReportRepository.class
+redispoc\springframework\domain\InquiryReport.class
+redispoc\springframework\converters\InquiryReportFormToInquiryReport.class
+redispoc\springframework\controllers\InquiryReportController.class
