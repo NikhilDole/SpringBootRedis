@@ -28,6 +28,15 @@ import javax.validation.Valid;
 	    @Autowired
 	    public void setItemToItemForm(ItemToItemForm itemToItemForm) {
 	        this.itemToItemForm = itemToItemForm;
+            System.out.println("This class is " + " this.itemToItemForm);
+
+            this.itemToItemForm = itemToItemForm;
+
+            this.itemToItemForm = itemToItemForm;
+
+            this.itemToItemForm = itemToItemForm;
+
+            System.out.println("End of method setItemToItemForm");		    
 	    }
 
 	    @Autowired
