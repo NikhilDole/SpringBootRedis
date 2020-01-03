@@ -1,2 +1,2 @@
 # SpringBootRedis
-Spring Boot Project using Redis
+Spring Boot Project using Redis a Test Project
