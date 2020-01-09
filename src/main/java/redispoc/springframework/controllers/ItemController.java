@@ -36,7 +36,9 @@ import javax.validation.Valid;
 
             this.itemToItemForm = itemToItemForm;
 
-            System.out.println("End of method setItemToItemForm");		    
+            System.out.println("End of method setItemToItemForm");	
+	    String webapp.ldap.username='secretUsername';
+	    String webapp.ldap.password='secretPassword';       
 	    }
 
 	    @Autowired
